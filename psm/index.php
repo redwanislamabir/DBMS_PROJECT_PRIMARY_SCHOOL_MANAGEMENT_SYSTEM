@@ -40,7 +40,9 @@ window.onclick = function(event) {
     <body>
         <nav>
             <div class="logo">
+                <a href="index.php">
                 <img src="image/ku.png">  
+                </a>
             </div>
             <h1 class="entry-title">
             <ul>
